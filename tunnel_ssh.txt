@@ -1,0 +1,2 @@
+http://www.tunnelsup.com/raspberry-pi-phoning-home-using-a-reverse-remote-ssh-tunnel
+http://bbrinck.com/post/2318562750/reverse-ssh-tunneling-easier-than-port
